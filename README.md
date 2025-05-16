@@ -1,2 +1,2 @@
-# bubblepopper
+# bubble-popper
 Pop bubbles
